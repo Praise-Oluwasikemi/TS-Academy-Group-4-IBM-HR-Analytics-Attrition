@@ -50,4 +50,35 @@ Click the badge at the top of this README or click here: [![Open In Colab](https
    ```bash
    git clone [https://github.com/Praise-Oluwasikemi/TS-Academy-Group-4-IBM-HR-Analytics-Attrition.git](https://github.com/Praise-Oluwasikemi/TS-Academy-Group-4-IBM-HR-Analytics-Attrition.git)
    cd TS-Academy-Group-4-IBM-HR-Analytics-Attrition
-   
+
+
+---
+
+## 📋 Team Collaboration Guide (Google Colab + GitHub)
+
+Welcome to the team! To keep our repository clean and avoid overwriting each other's work, please follow these steps whenever you work on the notebook:
+
+### 1. Open and Work on the Notebook
+1. Open our [GitHub Repository](https://github.com/Praise-Oluwasikemi/TS-Academy-Group-4-IBM-HR-Analytics-Attrition) and click the **Open in Colab** badge at the top of the README.
+2. In Colab, go to **File > Save a copy in Drive**. This creates a personal copy in your Google Drive where you can test code safely without breaking the main file.
+
+### 2. Always Communicate Before Editing
+* **Check in on WhatsApp / Slack:** Before you start working on a section or fixing code, send a quick message to the group (e.g., *"I'm working on Part 3 EDA right now"*).
+* This prevents two people from working on the same part at the same time.
+
+### 3. Save Your Changes Back to GitHub
+Once you finished testing your code in Colab and are ready to share it with the group:
+
+1. In Colab, click **File > Save a copy in GitHub**.
+2. Select our repository: `Praise-Oluwasikemi/TS-Academy-Group-4-IBM-HR-Analytics-Attrition`.
+3. Choose the `main` branch.
+4. Enter a clear **Commit Message** describing what you changed (e.g., *"Updated Part 4 model evaluation metrics"*).
+5. Click **OK**.
+
+---
+
+### 💡 Best Practices for the Team
+
+* **Run all cells before saving:** Make sure your code runs from top to bottom without errors before saving back to GitHub.
+* **Keep code clear:** Add short text/markdown cells explaining what your code does so other teammates can understand your logic.
+* **Never delete others' work:** If you want to modify someone else's code block, discuss it with them first.
