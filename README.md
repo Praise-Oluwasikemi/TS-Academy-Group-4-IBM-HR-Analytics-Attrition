@@ -8,7 +8,7 @@ An end-to-end data science project analyzing employee turnover (attrition) data 
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This repository works through a 7-part pipeline designed for both technical and non-technical stakeholders:
 1. **Data Foundation & SQL Analysis:** Automatic download of the IBM HR dataset via `kagglehub`, loaded into an in-memory SQLite database (`hr.db`) to query key departmental metrics.
@@ -33,14 +33,14 @@ This repository works through a 7-part pipeline designed for both technical and 
 
 ---
 
-## 🛠️ Dataset & Tools Used
+## Dataset & Tools Used
 
 * **Dataset:** [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 * **Language & Libraries:** Python 3, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, SQLite3, KaggleHub
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Option 1: Run Direct on Google Colab (Recommended)
 Click the badge at the top of this README or click here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Praise-Oluwasikemi/TS-Academy-Group-4-IBM-HR-Analytics-Attrition/blob/main/TS_ACADAEMY_GROUP_4.ipynb)
@@ -54,7 +54,7 @@ Click the badge at the top of this README or click here: [![Open In Colab](https
 
 ---
 
-## 📋 Team Collaboration Guide (Google Colab + GitHub)
+## Team Collaboration Guide (Google Colab + GitHub)
 
 Welcome to the team! To keep our repository clean and avoid overwriting each other's work, please follow these steps whenever you work on the notebook:
 
@@ -63,7 +63,7 @@ Welcome to the team! To keep our repository clean and avoid overwriting each oth
 2. In Colab, go to **File > Save a copy in Drive**. This creates a personal copy in your Google Drive where you can test code safely without breaking the main file.
 
 ### 2. NO WORKING ON THE MAIN FILE
-* **Check in on WhatsApp / Slack:** Before you start working on a section, send a quick message to the group (e.g., *"I'm working on Part 3 EDA right now"*).
+* **Check in on WhatsApp:** Before you start working on a section, send a quick message to the group (e.g., *"I'm working on Part 3 EDA right now"*).
 * This prevents two people from working on the same part at the same time.
 * Once you finished testing your code in Colab and are ready to share it with the group: paste the colab link of your personal copy.
 
