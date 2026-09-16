@@ -28,7 +28,7 @@ This repository works through a 7-part pipeline designed for both technical and 
 * **Helen Emiewo**
 * **Popoola Temidayo**
 * **Ogunrionola Christanah**
-* **Bethel**
+* **Adenmosun Bethel**
 * **Dorcas Yusuf**
 
 ---
