@@ -30,6 +30,7 @@ This repository works through a 7-part pipeline designed for both technical and 
 * **Ogunrionola Christanah**
 * **Adenmosun Bethel**
 * **Dorcas Yusuf**
+* **Alli Olamilekan**
 
 ---
 
