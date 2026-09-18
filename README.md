@@ -22,7 +22,7 @@ Created 3 domain-specific features to capture employee turnover drivers:
 * **David Wealth**
 * **Michael Sampson**
 * **Okogbo Joseph**
-* **Vitor Oduronbi**
+* **Victor Oduronbi**
 * **Helen Emiewo**
 * **Popoola Temidayo**
 * **Ogunrionola Christanah**
