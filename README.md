@@ -18,8 +18,17 @@ Created 3 domain-specific features to capture employee turnover drivers:
 ### 3. Target Variable Transformation
 * Converted target `Attrition` labels into binary format (`1` for `Yes`, `0` for `No`).
 
-### 4. Feature Scaling
-* Applied `StandardScaler` across all features to standardize inputs (mean=0, variance=1) for distance-sensitive models (K-Means, Logistic Regression).
+* **Praise Adetayo**
+* **David Wealth**
+* **Michael Sampson**
+* **Okogbo Joseph**
+* **Vitor Oduronbi**
+* **Helen Emiewo**
+* **Popoola Temidayo**
+* **Ogunrionola Christanah**
+* **Adenmosun Bethel**
+* **Dorcas Yusuf**
+* **Alli Olamilekan**
 
 ---
 
