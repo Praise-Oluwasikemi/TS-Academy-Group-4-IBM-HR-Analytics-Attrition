@@ -1,4 +1,3 @@
-@@ -1,76 +1,28 @@
 # TS-Academy-Group-4-IBM-HR-Analytics-Attrition
 This repository contains an end-to-end data science pipeline.
 # 📊 IBM HR Employee Attrition & Analytics Pipeline
