@@ -16,7 +16,7 @@ This repository works through a 7-part pipeline designed for both technical and 
 
 ---
 
-## 👥 Team Members (TS Academy - Group 4)
+## Team Members (TS Academy - Group 4)
 
 * **Praise Adetayo**
 * **David Wealth**
@@ -32,7 +32,7 @@ This repository works through a 7-part pipeline designed for both technical and 
 
 ---
 
-## 🛠️ Dataset & Tools Used
+## Dataset & Tools Used
 
 * **Dataset:** [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 * **Language & Libraries:** Python 3, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, SQLite3, KaggleHub
