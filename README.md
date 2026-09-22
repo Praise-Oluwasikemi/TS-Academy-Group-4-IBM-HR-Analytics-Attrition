@@ -1,12 +1,12 @@
-# 📊 IBM HR Employee Attrition & Analytics Pipeline
+# IBM HR Employee Attrition & Analytics Pipeline
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Praise-Oluwasikemi/TS-Academy-Group-4-IBM-HR-Analytics-Attrition/blob/main/TS_ACADAEMY_GROUP_4.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Praise-Oluwasikemi/TS-Academy-Group-4-IBM-HR-Analytics-Attrition/blob/main/group_04_yourname.ipynb)
 
 An end-to-end data science project analyzing employee turnover (attrition) data for **1,470 employees**. This project explores key satisfaction and demographic factors driving resignations, performs unsupervised clustering, and trains predictive machine learning models to identify at-risk staff before they leave.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This repository works through a 7-part pipeline designed for both technical and non-technical stakeholders:
 1. **Data Foundation & SQL Analysis:** Automatic download of the IBM HR dataset via `kagglehub`, loaded into an in-memory SQLite database (`hr.db`) to query key departmental metrics.
@@ -32,7 +32,7 @@ This repository works through a 7-part pipeline designed for both technical and 
 
 ---
 
-## Dataset & Tools Used
+## 🛠️ Dataset & Tools Used
 
 * **Dataset:** [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 * **Language & Libraries:** Python 3, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, SQLite3, KaggleHub
@@ -42,14 +42,13 @@ This repository works through a 7-part pipeline designed for both technical and 
 ## How to Run
 
 ### Option 1: Run Direct on Google Colab (Recommended)
-Click the badge at the top of this README or click here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Praise-Oluwasikemi/TS-Academy-Group-4-IBM-HR-Analytics-Attrition/blob/main/TS_ACADAEMY_GROUP_4.ipynb)
+Click the badge at the top of this README or click here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Praise-Oluwasikemi/TS-Academy-Group-4-IBM-HR-Analytics-Attrition/blob/main/group_04_yourname.ipynb)
 
 ### Option 2: Run Locally
 1. Clone this repository:
    ```bash
    git clone [https://github.com/Praise-Oluwasikemi/TS-Academy-Group-4-IBM-HR-Analytics-Attrition.git](https://github.com/Praise-Oluwasikemi/TS-Academy-Group-4-IBM-HR-Analytics-Attrition.git)
    cd TS-Academy-Group-4-IBM-HR-Analytics-Attrition
-
 ---
 
 # Part 2: Feature Engineering, Encoding, and Scaling
