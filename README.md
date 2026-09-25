@@ -22,7 +22,7 @@ This repository works through a 7-part pipeline designed for both technical and 
 * **David Wealth**
 * **Michael Sampson**
 * **Okogbo Joseph**
-* **Vitor Oduronbi**
+* **Victor Oduronbi**
 * **Helen Emiewo**
 * **Popoola Temidayo**
 * **Ogunrionola Christanah**
