@@ -8,7 +8,7 @@ An end-to-end data science project analyzing employee turnover (attrition) data 
 
 ## Project Overview
 
-This repository works through a 7-part pipeline designed for both technical and non-technical stakeholders:
+This repository works through a pipeline designed for both technical and non-technical stakeholders:
 1. **Data Foundation & SQL Analysis:** Automatic download of the IBM HR dataset via `kagglehub`, loaded into an in-memory SQLite database (`hr.db`) to query key departmental metrics.
 2. **Feature Engineering & Encoding:** Creating domain-specific indicators and transforming categorical variables.
 3. **Exploratory Data Analysis (EDA) & Clustering:** Identifying natural employee personas using K-Means and PCA dimensionality reduction.
